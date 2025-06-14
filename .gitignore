@@ -1,0 +1,14 @@
+/.phpunit.result.cache
+/.phpunit.cache
+/.php-cs-fixer.cache
+/.php-cs-fixer.php
+/composer.lock
+/phpunit.xml
+/vendor/
+/.idea/
+/build/
+*.swp
+*.swo
+node_modules
+.env
+.idea
