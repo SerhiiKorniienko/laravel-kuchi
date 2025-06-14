@@ -4,7 +4,7 @@
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/serhiikorniienko/laravel-kuchi/tests.yml?branch=main&label=tests&style=flat-square)]()
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/serhiikorniienko/laravel-kuchi.svg?style=flat-square)](https://packagist.org/packages/serhiikorniienko/laravel-kuchi)
 [![Total Downloads](https://img.shields.io/packagist/dt/serhiikorniienko/laravel-kuchi.svg?style=flat-square)](https://packagist.org/packages/serhiikorniienko/laravel-kuchi)
-[![GitHub License](https://img.shields.io/github/license/serhiikorniienko/laravel-kuchi.svg?style=flat-square)]()
+[![GitHub License](https://img.shields.io/github/license/serhiikorniienko/laravel-kuchi.svg?label=license&style=flat-square)]()
 
 ```
 In Japanese, "kuchi" (口), pronounced "koo-chee" directly translates to "mouth".
