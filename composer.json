@@ -1,7 +1,7 @@
 {
     "name": "serhiikorniienko/laravel-kuchi",
     "description": "A plug-and-play Laravel package for collecting user feedback and bug reports",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "keywords": [
         "laravel",
         "feedback",

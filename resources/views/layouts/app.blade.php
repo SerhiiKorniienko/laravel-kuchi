@@ -11,16 +11,6 @@
     <link rel="preconnect" href="https://fonts.bunny.net">
     <link href="https://fonts.bunny.net/css?family=space-grotesk:400,500,600,700&display=swap" rel="stylesheet" />
 
-    <!-- Styles -->
-    @if(app()->environment('testing'))
-        <!-- Skip Vite in testing environment -->
-        <style>
-            /* Basic styles for testing */
-            body { font-family: sans-serif; }
-        </style>
-    @else
-        @vite(['resources/css/app.css', 'resources/js/app.js'])
-    @endif
     @livewireStyles
 
     <style>
