@@ -156,19 +156,18 @@ return [
 
 ## Screenshots
 
+### Feedback List
+Interactive list with voting, filtering, and search functionality.
+![feedback-list.png](art/feedback-list.png)
+
 ### Feedback and Bug-report Forms
 Nice modal forms for submitting feedback and bug reports.
 ![feedback-form.png](art/feedback-form.png)
 ![bug-report-form.png](art/bug-report-form.png)
 
-### Feedback List
-Interactive list with voting, filtering, and search functionality.
-![feedback-list.png](art/feedback-list.png)
-
 ### Admin Dashboard
 Comprehensive dashboard for managing all feedback and bug reports.
-![admin-1.png](art/admin-1.png)
-![admin-2.png](art/admin-2.png)
+![admin.png](art/admin.png)
 
 ## Contributing
 
